@@ -1,0 +1,51 @@
+/*fuentes*/
+/*
+	font-family: 'Fascinate Inline', cursive;
+	font-family: 'Oleo Script', cursive;
+*/
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline|Oleo+Script:400,700&display=swap&subset=latin-ext/css?family=Fascinate+Inline|Kaushan+Script');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Hind+Madurai|Milonga');
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+nav{
+	border:1px solid red;
+	background-color: #323232;
+	color:white;
+}
+.logo{
+    padding: .25rem;
+    max-width: 20%;
+    height: auto;
+}
+
+.titulo{
+	font-family: 'Courgette', cursive;
+  	font-size: 2rem;
+}
+
+.img-header {
+    padding: 40vh 0vh 40vh 0vh;
+    text-align: center;
+    color: white;
+    background-image: url(../img/204398-OZ3P4A-964.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size:100% 100%;
+    display: block;
+}
+
+.texto-sec {
+  font-size: 0.9rem;
+  font-family: 'Oleo Script', cursive;
+  text-align: center;
+}
+
+.texto-terc{
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: 'Oleo Script', cursive;
+  text-align: center;
+}
+
